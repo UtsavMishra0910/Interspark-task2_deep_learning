@@ -8,7 +8,7 @@
 - GPU recommended (Google Colab free GPU works)
 - Internet connection
 
-### Installation Commands
+##Installation Commands
 
 ```bash
 # Clone the repository
